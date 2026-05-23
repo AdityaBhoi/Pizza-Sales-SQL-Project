@@ -387,7 +387,8 @@ pizza-sales-sql/
 ## 👤 Author
 
 **Aditya Bhoi**
-- 📧 [Email](2303031240176@paruluniversity.ac.in)
+
+- 📧 [Email](mailto:2303031240176@paruluniversity.ac.in)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/adityabhoi/)
 - 🐙 [GitHub](https://github.com/AdityaBhoi/)
 
